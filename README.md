@@ -1,11 +1,12 @@
-#ESP32 Engineering Projects Portfolio
+# ESP32 Engineering Projects Portfolio
 
 Welcome to my ESP32 Engineering Projects repository!
 
 This repository showcases embedded systems projects that I independently designed, programmed, assembled and tested using the **ESP32** and **MicroPython**. These projects were created to strengthen my understanding of electronics, programming and hardware-software integration.
+
 ---
 
-#About Me
+# About Me
 
 Hi! I'm **Adarsh Das**, an O-Level student with a strong interest in Electrical & Electronic Engineering and Computer Engineering.
 My interest in engineering began with experimenting with electronics and has grown through studying O-Level Computing, participating in coding competitions, and independently learning embedded systems using the ESP32.
