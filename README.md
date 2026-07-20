@@ -1,6 +1,6 @@
-# ESP32 Engineering Projects Portfolio
+# ESP32 Projects Portfolio
 
-Welcome to my ESP32 Engineering Projects repository!
+Welcome to my ESP32 Projects repository!
 
 This repository showcases embedded systems projects that I independently designed, programmed, assembled and tested using the **ESP32** and **MicroPython**. These projects were created to strengthen my understanding of electronics, programming and hardware-software integration.
 
