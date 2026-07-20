@@ -59,7 +59,7 @@ The game measures how quickly a user reacts after a randomly generated "GO!" sig
 
 ---
 
-### 🔌 Wiring
+### Wiring
 
 #### OLED
 
